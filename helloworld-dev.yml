@@ -1,0 +1,5 @@
+helloworld:
+  profile: flycamel
+  value:
+    first: Hello
+    second: world
