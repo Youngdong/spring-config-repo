@@ -1,5 +1,5 @@
 helloworld:
-  profile: flycamel
+  profile: flycamel-dev
   value:
-    first: Hello
-    second: world
+    first: Hello!
+    second: world!
